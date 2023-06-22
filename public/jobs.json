@@ -1,0 +1,66 @@
+[
+  { "Job_Id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/2560px-Netlify_logo.svg.png",
+    "job_title": "Software Engineer",
+    "company_name": "Netlify Corporation",
+    "job_type": "Full-time", "job_Location": "Remote",
+    "address": "123 Main Street, Uganda, USA",
+    "salary": "500 - 700K",
+    "job_description": "We're looking for a talented software engineer to join our team and help build the next generation of our product. The ideal candidate has experience with modern web frameworks and is comfortable working in a collaborative environment.",
+    "job_responsibilities": 
+      "Design and develop new features for our web application. Optimize existing code for performance and maintainability. Collaborate with product managers and designers to ensure a great user experience. Write automated tests to ensure code quality. Participate in code reviews and provide feedback to your peers.",
+    "educational_requirement": "Bachelor's degree in Computer Science or related field.",
+    "experience": "2+ years of experience in software engineering.",
+    "phone": "555-555-1234",
+    "email": "jobs@acmecorp.com"
+  },
+
+  { "Job_Id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "img": "https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png",
+    "job_title": "Marketing Manager",
+    "company_name": "LinkedIn Inc.",
+    "job_type": "Part-time", "job_Location":"Onsite",
+    "address": "456 Park Avenue, Honululu, USA",
+    "salary": "500 - 700K",
+    "job_description": "We're looking for a creative and experienced Marketing Manager to join our team. The ideal candidate will have a proven track record of driving growth through innovative marketing campaigns and initiatives.",
+    "job_responsibilities":
+      "Develop and implement marketing strategies to drive growth and revenue. Manage and execute marketing campaigns across multiple channels (email, social media, etc.). Create and manage content for marketing materials (website, brochures, etc.). Analyze and report on the effectiveness of marketing campaigns.Collaborate with cross-functional teams (product, sales, etc.) to ensure marketing efforts are aligned with overall business goals.",
+    "educational_requirement": "Bachelor's degree in Marketing or related field.",
+    "experience": "5+ years of experience in marketing, with a focus on digital marketing.",
+    "phone": "555-555-5678",
+    "email": "jobs@xyzinc.com"
+  },
+
+  { "Job_Id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adobe_Corporate_logo.svg/2560px-Adobe_Corporate_logo.svg.png",
+    "job_title": "Data Analyst",
+    "company_name": "Adobe Corporation",
+    "job_type": "Full-time", "job_Location":"Onsite",
+    "address": "789 Elm Street, Katukutu, USA",
+    "salary": "500 - 700K",
+    "job_description": "We are seeking a Data Analyst to join our team. The successful candidate will work on projects that involve data analysis and reporting to support business decision-making. The ideal candidate will be familiar with data analysis tools and techniques, have excellent analytical skills and be a critical thinker.",
+    "job_responsibilities":
+      "Analyze data and present findings to management. Work with team members to collect and organize data. Develop and maintain data models. Create dashboards and reports to visualize data. Communicate with stakeholders on findings and recommendations.",
+    "educational_requirement": "Bachelor's degree in Mathematics, Statistics, Computer Science or related field.",
+    "experience": "2+ years of experience in data analysis or related field.",
+    "phone": "555-555-1234",
+    "email": "jobs@abccorp.com"
+  },
+
+  { "Job_Id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png",
+    "job_title": "Graphic Designer",
+    "company_name": "Flutter Creative Agency",
+    "job_type": "Full-time", "job_Location": "Onsite",
+    "address": "456 Main Street, Noakhali, USA",
+    "salary": "400 - 600K",
+    "job_description": "We are looking for a talented Graphic Designer to join our creative team. The ideal candidate will be responsible for creating compelling designs for a variety of mediums, including print, digital, and social media.",
+    "job_responsibilities": 
+      "Design and produce creative assets for print, digital and social media. Work with clients to develop design concepts that meet their needs.Collaborate with team members to deliver projects on time and on budget. Stay up to date with industry trends and best practices.Maintain a high level of accuracy and attention to detail.",
+    "educational_requirement": "Bachelor's degree in Graphic Design, Fine Arts or related field.",
+    "experience": "2+ years of experience in graphic design or related field.",
+    "phone": "555-555-5678",
+    "email": "jobs@defagency.com"
+  }
+  
+]
